@@ -1,0 +1,16 @@
+@import  'element-ui/lib/theme-chalk/index.css';
+
+.error{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body{
+    overflow: hidden;
+}
+
+.default-header {
+    background-color: rgb(244, 244, 244) !important;
+    color: rgb(97, 97, 97);
+}
